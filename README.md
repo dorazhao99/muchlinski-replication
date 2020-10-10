@@ -20,3 +20,6 @@ NAM | North America
 OCE | Oceania
 SAM | South America
 SEA | Southeast Asia
+
+### Temporal Experiments 
+We separated out our data into three temporal chunks, approximately spanning 20 years in each chunk: 1945-1965, 1965-1985, 1985-2000. 
