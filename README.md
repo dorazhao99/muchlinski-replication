@@ -7,7 +7,7 @@ Replicating Muchlinski et al (2016)
 
 ## Extending Muchlinski et al.'s Findings
 ### Geographic Experiments 
-We used [CIA World Factbook](https://www.cia.gov/library/publications/resources/the-world-factbook/fields/278.html) to assign geographic regions to each of the countries. The association between country and geographic region can be found in data/cow.csv. 
+We used [CIA World Factbook](https://www.cia.gov/library/publications/resources/the-world-factbook/fields/278.html) to assign geographic regions to each of the countries. The association between country and geographic region can be found in cow.csv. 
 
 Abbreviation| Region
 ------------ | -------------
