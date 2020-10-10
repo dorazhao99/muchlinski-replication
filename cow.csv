@@ -1,0 +1,179 @@
+cow,country,region
+615,Algeria,AFR
+540,Angola,AFR
+434,Benin,AFR
+571,Botswana,AFR
+439,Burkina Faso,AFR
+516,Burundi,AFR
+471,Cameroon,AFR
+402,Cape Verde,AFR
+482,C.A.R.,AFR
+483,Chad,AFR
+581,Comoros,AFR
+484,Congo (Braz),AFR
+522,Djibouti,AFR
+651,Egypt,AFR
+531,Eritrea,AFR
+530,Ethiopia,AFR
+529,Ethiopia,AFR
+481,Gabon,AFR
+420,Gambia,AFR
+452,Ghana,AFR
+438,Guinea,AFR
+404,Guinea Bissau,AFR
+437,Ivory Coast,AFR
+501,Kenya,AFR
+570,Lesotho,AFR
+450,Liberia,AFR
+620,Libya,AFR
+511,Madagascar,AFR
+553,Malawi,AFR
+432,Mali,AFR
+435,Mauritania,AFR
+590,Mauritius,AFR
+600,Morocco,AFR
+541,Mozambique,AFR
+565,Namibia,AFR
+436,Niger,AFR
+475,Nigeria,AFR
+517,Rwanda,AFR
+433,Senegal,AFR
+591,Seychelles,AFR
+451,Sierra Leone,AFR
+520,Somalia,AFR
+560,South Africa,AFR
+625,Sudan,AFR
+572,Swaziland,AFR
+510,Tanzania,AFR
+461,Togo,AFR
+616,Tunisia,AFR
+500,Uganda,AFR
+490,Zaire/Congo,AFR
+551,Zambia,AFR
+552,Zimbabwe,AFR
+700,Afghanistan,ASI
+371,Armenia,ASI
+373,Azerbaijan,ASI
+771,Bangladesh,ASI
+760,Bhutan,ASI
+710,China,ASI
+372,Georgia,ASI
+750,India,ASI
+740,Japan,ASI
+705,Kazakhstan,ASI
+732,Korea,ASI
+703,Kyrgyzstan,ASI
+712,Mongolia,ASI
+790,Nepal,ASI
+770,Pakistan,ASI
+780,Sri Lanka,ASI
+702,Tajikistan,ASI
+701,Turkmenistan,ASI
+704,Uzbekistan,ASI
+31,Bahamas,CAM
+53,Barbados,CAM
+80,Belize,CAM
+94,Costa Rica,CAM
+40,Cuba,CAM
+42,Dominican Republic,CAM
+92,El Salvador,CAM
+55,Grenada,CAM
+90,Guatemala,CAM
+41,Haiti,CAM
+91,Honduras,CAM
+51,Jamaica,CAM
+93,Nicaragua,CAM
+95,Panama,CAM
+52,Trinidad,CAM
+339,Albania,EUR
+305,Austria,EUR
+370,Belarus,EUR
+211,Belgium,EUR
+346,Bosnia,EUR
+355,Bulgaria,EUR
+344,Croatia,EUR
+315,Czechoslovakia,EUR
+316,Czech Republic,EUR
+390,Denmark,EUR
+366,Estonia,EUR
+375,Finland,EUR
+260,Germany,EUR
+255,Germany,EUR
+350,Greece,EUR
+310,Hungary,EUR
+395,Iceland,EUR
+205,Ireland,EUR
+325,Italy,EUR
+367,Latvia,EUR
+368,Lithuania,EUR
+212,Luxembourg,EUR
+343,Macedonia,EUR
+338,Malta,EUR
+359,Moldova,EUR
+210,Netherlands,EUR
+385,Norway,EUR
+290,Poland,EUR
+235,Portugal,EUR
+360,Romania,EUR
+317,Slovakia,EUR
+349,Slovenia,EUR
+230,Spain,EUR
+380,Sweden,EUR
+225,Switzerland,EUR
+200,U.K.,EUR
+364,USSR/Russia,EUR
+365,Russia,EUR
+369,Ukraine,EUR
+345,Yugoslavia,EUR
+347,Yugoslavia,EUR
+220,France,EUR
+692,Bahrain,ME
+352,Cyprus,ME
+630,Iran,ME
+645,Iraq,ME
+666,Israel,ME
+663,Jordan,ME
+690,Kuwait,ME
+660,Lebanon,ME
+698,Oman,ME
+694,Qatar,ME
+670,Saudi Arabia,ME
+652,Syria,ME
+640,Turkey,ME
+696,U.A.R.,ME
+679,Yemen,ME
+678,Yemen AR,ME
+680,Yemen PR,ME
+20,Canada,NAM
+70,Mexico,NAM
+2,U.S.A.,NAM
+900,Australia,OCE
+950,Fiji,OCE
+920,New Zealand,OCE
+910,Papua NG,OCE
+940,Solomon Islands,OCE
+935,Vanuatu,OCE
+990,Western Samoa,OCE
+160,Argentina,SAM
+145,Bolivia,SAM
+140,Brazil,SAM
+155,Chile,SAM
+100,Colombia,SAM
+130,Ecuador,SAM
+110,Guyana,SAM
+150,Paraguay,SAM
+135,Peru,SAM
+115,Suriname,SAM
+165,Uruguay,SAM
+101,Venezuela,SAM
+811,Cambodia,SEA
+850,Indonesia,SEA
+812,Laos,SEA
+820,Malaysia,SEA
+775,Myanmar/Burma,SEA
+840,Philippines,SEA
+830,Singapore,SEA
+713,Taiwan,SEA
+800,Thailand,SEA
+817,Vietnam,SEA
+818,Vietnam,SEA
