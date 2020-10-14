@@ -4,6 +4,12 @@ Replicating Muchlinski et al (2016)
 ## Requirements
 * R <= 3.5
 * randomForest = 4.6.12
+* caret = 6.076
+* ROCR <= 1.05
+* pROC <= 1.16
+* stepPlr <= 0.93
+* doMC <= 1.3
+* xTable <= 1.8
 
 ## Extending Muchlinski et al.'s Findings
 ### Geographic Experiments 
