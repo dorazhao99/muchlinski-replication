@@ -30,4 +30,4 @@ SEA | Southeast Asia
 To create our training and testing sets, we combined North America, South America, and Central America into the "Americas" and Asia, Southeast Asia, and Oceania into "Asia / Oceania". 
 
 ### Temporal Experiments 
-We separated out our data into three temporal chunks, approximately spanning 20 years in each chunk: 1945-1965, 1965-1985, 1985-2000. 
+We separated out our data into temporal chunks based on decades.  
